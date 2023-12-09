@@ -14,3 +14,7 @@ eureka:
 ribbon:
   eureka:
     enabled: true
+
+bands:
+  api:
+    base: http://BANDS
